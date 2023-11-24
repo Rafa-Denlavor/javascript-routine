@@ -1,0 +1,40 @@
+
+A Programação Orientada a Objetos (POO) é um paradigma de programação que utiliza conceitos como classes, objetos, encapsulamento, herança e polimorfismo. Abaixo estão alguns termos e conceitos fundamentais relacionados à POO:
+
+Classe:
+
+Uma classe é um modelo para a criação de objetos. Ela define os atributos e métodos que os objetos de uma determinada classe terão.
+Objeto:
+
+Um objeto é uma instância de uma classe. Ele representa uma entidade do mundo real e encapsula dados (atributos) e comportamentos (métodos).
+Atributo:
+
+Um atributo é uma variável que faz parte de um objeto. Também é chamado de campo, propriedade ou membro de dados.
+Método:
+
+Um método é uma função associada a uma classe. Ele representa o comportamento do objeto e é capaz de manipular seus atributos.
+Encapsulamento:
+
+Encapsulamento é o conceito de agrupar os dados (atributos) e métodos que operam sobre esses dados em uma única unidade (classe ou objeto). Ele ajuda a controlar o acesso aos dados e proteger a integridade do objeto.
+Herança:
+
+Herança é um conceito que permite que uma classe herde os atributos e métodos de outra classe. Ela promove a reutilização de código e cria uma hierarquia de classes.
+Polimorfismo:
+
+Polimorfismo permite que objetos de diferentes classes sejam tratados como objetos de uma classe comum. Isso pode ser alcançado através da sobrecarga de métodos e da implementação de interfaces.
+Abstração:
+
+Abstração é o processo de simplificar a complexidade, destacando os aspectos mais importantes e ignorando detalhes menos relevantes. Classes e objetos são formas de abstração na POO.
+Interface:
+
+Uma interface define um conjunto de métodos que uma classe deve implementar. É um contrato que garante que as classes que a implementam tenham os métodos especificados.
+Mensagem:
+
+Na POO, a comunicação entre objetos é feita por meio de mensagens. Um objeto envia uma mensagem para outro objeto solicitando a execução de um método específico.
+Instância:
+
+Uma instância é um objeto específico criado a partir de uma classe. Cada objeto é uma instância de uma determinada classe.
+Construtor:
+
+Um construtor é um método especial chamado quando um objeto é criado. Ele é usado para inicializar os atributos do objeto.
+Estes são apenas alguns dos termos mais comuns associados à Programação Orientada a Objetos. A compreensão desses conceitos é essencial para projetar e desenvolver sistemas eficientes e modularizados.
