@@ -18,7 +18,8 @@
 16. O que é delegação de eventos e por que ela é útil?
 17. O que é imutabilidade e por que é importante na programação funcional?
 18. Explique a diferença entre uma pilha (stack) e uma fila (queue).
-19. O que é Typecasting?
+19. O que é Typecasting? Qual a diferença do inplícito e o explícito?
 20. Qual são os tipos primitivos?
 21. Qual tipo não é primitivo?
+22. 
     
